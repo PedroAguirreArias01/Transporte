@@ -1,5 +1,9 @@
 package models;
 
+/**
+ * Entidad que representa a la persona
+ * @author pedro
+ */
 public class Persona {
 	private int cedula;
 	private String nombre;
